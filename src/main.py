@@ -11,7 +11,7 @@ from helper import config_helper
 
 
 APPNAME = 'mmorpgHelper'
-APPVERSION = 'v1.0.2.9'
+APPVERSION = 'v1.0.2.13'
 
 
 def main():

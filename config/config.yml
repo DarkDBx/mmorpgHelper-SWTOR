@@ -1,4 +1,5 @@
 class: Juggernaut
+name: 'mmorpgHelper'
 comboKey: 'shift'
 skill01: '1'
 skill02: '2'

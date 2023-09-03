@@ -7,11 +7,11 @@
 
 
 ## PARAMETER
-- Set key assignment in config.yml.
-- Set interface to extended or another preset with at least 2 hotbars.
-- Set interface options cooldown text enabled.
 - Recomended use of windowed fullscreen with 1920x1080 resolution.
 - Recomended use of US/EN or standard keyboard layout.
+- Set a different appname(anticheat) and adjust the key assignment in config.yml.
+- Set interface to extended or another preset with at least 2 hotbars.
+- Set interface options cooldown text enabled.
 - Python 3.9 interpreter, see requirements.txt.
 
 
@@ -24,12 +24,12 @@
 - With toolbox open: 'home' hotkey get coordinates and rgb colors at mouse cursor.
 - With toolbox open: 'insert' hotkey save image per parameters from gui at mouse cursor.
 - 'end' hotkey to exit active process.
-- 'delete' or 'capslock' hotkey to pause active process. Use to toggle fight on/off
+- 'delete' or 'capslock' hotkey to pause active process. Use to toggle fight on/off.
 
 
 ## CREDITS
-- https://stackoverflow.com/
-- https://github.com/
+- https://stackoverflow.com
+- https://github.com
 - Written in Python by DarkDBx
 
 
